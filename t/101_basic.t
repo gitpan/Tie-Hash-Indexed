@@ -4,7 +4,7 @@
 # $Author: mhx $
 # $Date: 2003/11/02 15:12:02 +0100 $
 # $Revision: 3 $
-# $Snapshot: /Tie-Hash-Indexed/0.01 $
+# $Snapshot: /Tie-Hash-Indexed/0.02 $
 # $Source: /t/101_basic.t $
 #
 ################################################################################
