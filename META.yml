@@ -1,6 +1,13 @@
 --- #YAML:1.0
-name: Tie-Hash-Indexed
-version: 0.03
-license: perl
-distribution_type: module
-generated_by: Tie::Hash::Indexed Makefile.PL
+name:                Tie-Hash-Indexed
+version:             0.04
+abstract:            Ordered hashes for Perl
+license:             perl
+generated_by:        ExtUtils::MakeMaker version 6.30_01
+author:              Marcus Holland-Moritz <mhx@cpan.org>
+distribution_type:   module
+requires:     
+    Test:                          0
+meta-spec:
+    url: <http://module-build.sourceforge.net/META-spec-new.html>;
+    version: 1.1
