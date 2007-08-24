@@ -2,9 +2,8 @@
 #
 # $Project: /Tie-Hash-Indexed $
 # $Author: mhx $
-# $Date: 2006/01/21 10:28:57 +0100 $
-# $Revision: 2 $
-# $Snapshot: /Tie-Hash-Indexed/0.04 $
+# $Date: 2006/01/21 12:07:00 +0100 $
+# $Revision: 3 $
 # $Source: /t/102_storable.t $
 #
 ################################################################################

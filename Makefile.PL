@@ -2,9 +2,8 @@
 #
 # $Project: /Tie-Hash-Indexed $
 # $Author: mhx $
-# $Date: 2006/01/21 10:36:42 +0100 $
-# $Revision: 5 $
-# $Snapshot: /Tie-Hash-Indexed/0.04 $
+# $Date: 2006/01/21 12:06:59 +0100 $
+# $Revision: 6 $
 # $Source: /Makefile.PL $
 #
 ################################################################################
